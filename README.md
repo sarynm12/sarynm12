@@ -2,7 +2,7 @@
 
 ##### *Pronouns: she/her*
 
-#### Currently studying backend engineering at [Turing School of Software & Design](https://turing.io/). *Graduating in January 2021*
+#### Currently studying backend engineering at [Turing School of Software & Design](https://turing.io/). 
 
 ![Saryn's github stats](https://github-readme-stats.vercel.app/api?username=sarynm12)
 
