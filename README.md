@@ -2,6 +2,8 @@
 
 ##### *Pronouns: she/her*
 
+#### Current Backend Developer Intern at [Shopify](https://www.shopify.com/). 
+
 #### Studied backend engineering at [Turing School of Software & Design](https://turing.io/). 
 
 ![Saryn's github stats](https://github-readme-stats.vercel.app/api?username=sarynm12)
