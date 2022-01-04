@@ -2,7 +2,7 @@
 
 ##### *Pronouns: she/her*
 
-#### Current Backend Developer Intern at [Shopify](https://www.shopify.com/). 
+#### Recent Experience: Backend Developer Intern at [Shopify](https://www.shopify.com/). 
 
 #### Studied backend engineering at [Turing School of Software & Design](https://turing.io/). 
 
