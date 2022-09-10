@@ -2,7 +2,7 @@
 
 ##### *Pronouns: she/her*
 
-#### 🌞 Solutions Engineer at [Salsify](https://www.salsify.com/) 🌞
+#### Solutions Engineer at [Salsify](https://www.salsify.com/)
 
 #### Studied backend engineering at [Turing School of Software & Design](https://turing.io/). 
 
