@@ -4,8 +4,6 @@
 
 #### Studied backend engineering at [Turing School of Software & Design](https://turing.io/). 
 
-![Saryn's github stats](https://github-readme-stats.vercel.app/api?username=sarynm12)
-
 ### Let's get in touch! ✉️
   - Email: sarynm00@gmail.com
   - Linkedin: https://www.linkedin.com/in/saryn-mooney-34503984/
